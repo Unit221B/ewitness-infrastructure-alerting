@@ -1,0 +1,27 @@
+Host 104.131.11.108
+    User root
+    StrictHostKeyChecking no
+    UserKnownHostsFile /dev/null
+    IdentityFile /root/.ssh/id_rsa
+    LogLevel ERROR
+
+Host 68.183.156.237
+    User root
+    StrictHostKeyChecking no
+    UserKnownHostsFile /dev/null
+    IdentityFile /root/.ssh/id_rsa
+    LogLevel ERROR
+
+Host 164.90.138.26
+    User root
+    StrictHostKeyChecking no
+    UserKnownHostsFile /dev/null
+    IdentityFile /root/.ssh/id_rsa
+    LogLevel ERROR
+
+Host 159.203.169.29
+    User root
+    StrictHostKeyChecking no
+    UserKnownHostsFile /dev/null
+    IdentityFile /root/.ssh/id_rsa
+    LogLevel ERROR
